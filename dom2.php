@@ -1,5 +1,4 @@
 <?php
-// http://localhost/Manipulador_XML_DOM/dom2.php
 
 $dom = new DOMDocument('1.0', 'UTF-8');
 $dom->formatOutput = true;
